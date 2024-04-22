@@ -1,6 +1,5 @@
+#! /usr/bin/env node
 import inquirer from "inquirer";
-// give input
-// result
 const answers = await inquirer.prompt([{
         name: "sentence",
         type: "input",

@@ -1,6 +1,6 @@
 {
-  "name": "sanatalal-word-count",
-  "version": "1.0.0",
+  "name": "sana-talal-word-counter",
+  "version": "1.0.3",
   "description": "This project based on word counter.",
   "main": "main.js",
   "type": "module",
@@ -12,7 +12,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@types/node": "^20.12.7"
+    "inquirer": "^9.2.19"
   },
   "devDependencies": {
     "@types/inquirer": "^9.0.7"
